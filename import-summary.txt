@@ -1,0 +1,187 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* $tf\
+* $tf\0\
+* $tf\0\1ffec740-410d-4462-9235-5e443608012f.gz
+* $tf\0\96296720-871c-40d8-a5dd-f3e41cbd859f.gz
+* $tf\0\d01f6350-2fd6-4e7a-9840-a3f0fd02f9be.gz
+* $tf\10\
+* $tf\10\852bef7a-6af6-4593-9757-0c8f1a04ced7.gz
+* $tf\10\f9e953ba-f214-452f-8c1e-028941060872.gz
+* $tf\11\
+* $tf\11\04164ddb-b536-406b-a18d-7334e03db9b7.gz
+* $tf\11\547da8cb-3726-4814-b177-445a3e4519a4.gz
+* $tf\11\65affe9b-9871-41e4-849a-6863ed1df470.gz
+* $tf\11\b084866b-a913-486a-9a9f-aa5c2e0217f2.gz
+* $tf\11\c62cdcdb-dbbd-41ad-b1a8-3f433accd815.gz
+* $tf\11\d62cd0fb-267e-4134-8192-0fcb9b95d5a4.gz
+* $tf\11\d8dde8fb-c25a-4072-b0a6-6e415e9f5bea.gz
+* $tf\12\
+* $tf\12\136b77bc-da0a-4b35-b17c-2630b2bbcec6.gz
+* $tf\12\14aff00c-eac6-4da7-88fc-fd7b30b729de.gz
+* $tf\12\1a67fbfc-9ceb-4abb-a568-e1fc19be6dd0.gz
+* $tf\12\41140d0c-441b-4fc3-a5bf-3aaa69c1c123.gz
+* $tf\12\464950cc-727b-4e2e-b2b0-fe77c714252a.gz
+* $tf\12\a6adf25c-6276-49b1-a067-43b259fc77db.gz
+* $tf\12\b88f391c-d010-4389-9b51-aab45db7f50f.gz
+* $tf\12\c27c839c-536e-4cf9-b25d-bd34536a7722.gz
+* $tf\13\
+* $tf\13\0088a98d-8108-493e-926c-459dfb6b83ca.gz
+* $tf\13\249ae52d-4ed5-443f-9a6c-37461c947e3b.gz
+* $tf\13\426da54d-d68a-4d26-ad89-2ced871f0c6a.gz
+* $tf\13\6704c69d-5dab-498d-ab40-739a3c1e08db.gz
+* $tf\13\810d432d-ad8d-4ae5-b465-8061537caaa1.gz
+* $tf\13\89b2d60d-5cd4-45e0-bc7c-51ffcd53eded.gz
+* $tf\13\a7920e3d-072a-47b4-8978-3e23507c1e45.gz
+* $tf\13\e186c07d-09da-4262-abd5-4e2c044c5f41.gz
+* $tf\13\e1991c0d-3c1d-40b4-913b-56111a53ecae.gz
+* $tf\14\
+* $tf\14\21f24cee-7228-40cb-9907-d7d2defefa85.gz
+* $tf\14\541e7d6e-ae5d-4755-a8c8-5458b567ec02.gz
+* $tf\14\67cbae3e-f347-4ee4-856e-9baa3dcd8d59.gz
+* $tf\14\86b80e5e-c04a-4199-ad3c-dcea552920e1.gz
+* $tf\14\894efdae-7ac5-461e-add2-ca037c5a49ef.gz
+* $tf\14\a3ab9a5e-ae96-41c8-969d-cac9b8d3481e.gz
+* $tf\14\a9fb15de-4512-4ea6-9b85-c27795eb890f.gz
+* $tf\14\abc2038e-3649-4548-9a3b-809e89e271c1.gz
+* $tf\14\c96cd22e-a5f1-43b0-840a-330a16e8030b.gz
+* $tf\15\
+* $tf\15\0f9eacbf-c34d-43a1-b80d-3ada13ad6ec0.gz
+* $tf\15\16371fef-eac0-4e43-9a5a-d75373e01172.gz
+* $tf\15\2fc2af5f-e61f-4470-819e-db265a583310.gz
+* $tf\15\32829fff-02e1-4c2c-a101-5d956babf731.gz
+* $tf\15\55b88dcf-e2bd-4444-8231-ffd659d059cb.gz
+* $tf\15\721ff13f-8295-4bfb-acad-2e07f3425065.gz
+* $tf\15\abadc8bf-8bd4-4693-a353-5274f6202fc5.gz
+* $tf\15\b20de6bf-1a44-4fa0-89f4-e0b743eb5470.gz
+* $tf\15\c9f8954f-77eb-43a5-a397-76104c12bd52.gz
+* $tf\15\d0b6d6ef-8e2a-46da-b0ce-fa3e3baedfbe.gz
+* $tf\15\dcaf367f-46f2-45b4-afa1-2fede02e3efa.gz
+* $tf\15\e4f0f1ff-9947-45b0-ba49-e77f121785e8.gz
+* $tf\1\
+* $tf\1\14fac6f1-47ca-4f3f-8184-74b4279f153d.gz
+* $tf\1\25fe00b1-512f-43ac-ba86-3492584c7c10.gz
+* $tf\1\c275cc51-1073-4b98-938c-6d55c220b85a.gz
+* $tf\1\c39bbb51-24d7-470d-8863-0c916cfe0bc2.gz
+* $tf\2\
+* $tf\2\3ec70322-f750-464b-8592-97991a54132d.gz
+* $tf\2\481001f2-828c-4042-8f93-1f36969d4da7.gz
+* $tf\2\5f7ba6e2-6dd0-4f80-b8fe-c989a682a37c.gz
+* $tf\2\bf3ae282-4b22-4acb-8c7e-1d3a64e71ebc.gz
+* $tf\3\
+* $tf\3\0bbe2da3-ba0a-4117-a153-ac8b998aaa96.gz
+* $tf\3\30c6bc03-0048-4216-9456-d3a84967a22e.gz
+* $tf\3\4a30e6c3-82cb-43d7-b7ef-bf65b340bf00.gz
+* $tf\3\5fdf7b53-e1d3-451b-a828-4299006f1b99.gz
+* $tf\3\6187e013-4eb5-4dc2-913b-06b74bc6bd34.gz
+* $tf\3\6f092eb3-d373-466b-8e53-d1cc7660cfb4.gz
+* $tf\3\93887803-b382-4103-9995-b027df18572d.gz
+* $tf\3\a5c28d43-939c-43a4-a82a-22d30dbe0d84.gz
+* $tf\3\b6c84b23-f382-46ef-a875-a932ba3d9caf.gz
+* $tf\3\c15fa9c3-8236-48be-b79f-4a2ba86c42e8.gz
+* $tf\3\fe7edbb3-1216-457d-8bf0-ea76b9f84df4.gz
+* $tf\4\
+* $tf\4\471effc4-e9eb-4911-bdfa-178acc91be55.gz
+* $tf\4\4e81f994-da19-4e44-bdc6-e97d2424414d.gz
+* $tf\4\89dba674-55e5-41ae-8ede-ae357e744dec.gz
+* $tf\4\bc7dfc44-c011-4fce-8ffb-6b5f140b9a72.gz
+* $tf\4\d9d29d64-dd13-4b69-a472-ba62eed91b4b.gz
+* $tf\5\
+* $tf\5\01f4bbc5-88ce-4356-a418-03149d17e5e4.gz
+* $tf\5\3218aa45-2822-4960-968d-9e488a39bf78.gz
+* $tf\5\34db8ab5-82e1-4876-b665-2e79c5be0a8a.gz
+* $tf\5\36ce6925-79a2-4ac3-aedb-9e51bdaafcc4.gz
+* $tf\5\7a1cadc5-26fa-4641-8505-51e39cfc7b5e.gz
+* $tf\5\92174555-9e1e-4748-871f-41492d5c05b3.gz
+* $tf\5\9f6b0275-49af-4c53-bb1f-fd01546dee78.gz
+* $tf\5\ce430365-904d-4c08-9b8a-04b249fcc42f.gz
+* $tf\5\d3d0ea85-09b1-4bd9-a539-846cd7218fa1.gz
+* $tf\5\f10a38e5-a16b-45b0-b802-4a30fa23b23f.gz
+* $tf\6\
+* $tf\6\02c9e556-cab6-4bdd-ad49-cc021f237f9b.gz
+* $tf\6\2fba3ee6-98e7-4d5d-9943-3118728e5e1a.gz
+* $tf\6\68103126-d145-4fa2-9a49-77307c4e1912.gz
+* $tf\6\7a4aaa66-5ba5-4ccc-94bd-ba42c0a8eae1.gz
+* $tf\6\91b993d6-01cc-4756-9030-cd4e8ebd2068.gz
+* $tf\6\9382afa6-3bea-4de9-afef-f4f5482b88a5.gz
+* $tf\6\adf6e466-23bd-46fb-8099-23f37811796d.gz
+* $tf\6\c80ff7f6-d336-4bda-b864-b6c5201b0a19.gz
+* $tf\6\effaa1b6-2c04-4cc3-b82d-52d6d2c255bf.gz
+* $tf\7\
+* $tf\7\1afc36d7-1364-4e8e-82e2-ca2ad70395a2.gz
+* $tf\7\37aa6347-975c-4b51-af36-52edba7f088b.gz
+* $tf\7\82d80537-0ddf-444b-800d-e88c9affcf55.gz
+* $tf\7\ac7d67a7-73bf-4353-be7f-1f902705220a.gz
+* $tf\7\bb1d3307-7405-44c2-8275-bb05755bd9f8.gz
+* $tf\7\e777bd37-f73c-4509-b06f-5afd3508f69f.gz
+* $tf\8\
+* $tf\8\0d4cf6d8-93b5-4d50-bfa4-45ffc6ae6d16.gz
+* $tf\8\a08283e8-27e0-47ed-9b7f-8def1d412766.gz
+* $tf\8\c375f7f8-d75f-4f85-b87a-5528cb8128b8.gz
+* $tf\8\dc74e908-bcbe-41cb-bc06-60fa57fdbf75.gz
+* $tf\8\e4728b58-dc75-4721-a368-4d578d982da0.gz
+* $tf\8\ed52c8b8-29a9-45bf-ae65-89293adb12e3.gz
+* $tf\8\fe49b368-612b-41bd-8d37-8452d49fad29.gz
+* $tf\9\
+* $tf\9\07963979-311e-4f4a-bc4c-2ff57197627b.gz
+* $tf\9\269b5f89-cdf1-41ec-b32b-8c8b87c31fb0.gz
+* $tf\9\27d22d69-4f62-46cd-b180-8aacdf66bedc.gz
+* $tf\9\4532f989-2ddc-409c-91e4-1004e89ee999.gz
+* $tf\9\637aceb9-88b4-45c2-8a6d-684615088234.gz
+* $tf\9\b7c2e419-c45e-4c2c-944c-c236cffd5c0d.gz
+* $tf\9\c124fc69-ae6d-4a8a-9c05-5b04de2276d5.gz
+* $tf\9\cb310069-60c9-4113-a461-636d1b5e59c9.gz
+* $tf\9\dac1b2b9-95f1-4268-8372-c1bea01eb46f.gz
+* $tf\properties.tf1
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\BixolonPrinter.jar => app\libs\BixolonPrinter.jar
+* libs\Bxlprint.jar => app\libs\Bxlprint.jar
+* libs\Citizen_Android_1063.jar => app\libs\Citizen_Android_1063.jar
+* libs\CSJPOSLib_Android.jar => app\libs\CSJPOSLib_Android.jar
+* libs\ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar => app\libs\ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar
+* lint.xml => app\lint.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

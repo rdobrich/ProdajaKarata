@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/row_shape" >
+
+    <TextView
+        android:id="@+id/lblDatumRacuna"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="18.07.2014. 11:20:19"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/lblBrojRacuna"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Broj racuna"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/lblIzlet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Podaci o izletu"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/lblKarte"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2x Odrasli, 3x Djeca"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/lblMeniji"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="3x hrana, 2x nesto drugo"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+</LinearLayout>

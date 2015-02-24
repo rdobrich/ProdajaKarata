@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+     <item
+        android:id="@+id/blagajna"
+        android:title="Blagajna"
+        android:icon="@drawable/ic_launcher"
+        android:showAsAction="never"
+    />
+     <item
+        android:id="@+id/printer"
+        android:title="Spoji pisač"
+        android:icon="@drawable/ic_launcher"
+        android:showAsAction="never"
+    />
+    <item
+        android:id="@+id/odjava"
+        android:title="Odjava"
+        android:icon="@drawable/ic_launcher"
+        android:showAsAction="never"
+    />
+ 
+</menu>

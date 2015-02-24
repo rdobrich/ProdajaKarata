@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <TableRow
+        android:id="@+id/tableRow1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="0" >
+
+        <TextView
+            android:id="@+id/lblNacinPlacanja"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:text="Uplata/Isplata"
+            android:textAlignment="textEnd"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:id="@+id/lblUplata"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:text="Large Text"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:id="@+id/lblIsplata"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:text="Large Text"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:id="@+id/lblUplaceniIznos"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:text="Large Text"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    </TableRow>
+
+</LinearLayout>
